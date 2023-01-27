@@ -1,3 +1,3 @@
-variable "sample"{
+variable "api"{
     type = list(string)
 }
