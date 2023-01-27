@@ -1,2 +1,2 @@
-sample = ["compute.googleapis.com", "sql-component.googleapis.com", "storage-component.googleapis.com", "cloudresourcemanager.googleapis.com", "iam.googleapis.com", "pubsub.googleapis.com", "sqladmin.googleapis.com", "cloudkms.googleapis.com", "container.googleapis.com",
+sample =["compute.googleapis.com", "sql-component.googleapis.com", "storage-component.googleapis.com", "cloudresourcemanager.googleapis.com", "iam.googleapis.com", "pubsub.googleapis.com", "sqladmin.googleapis.com", "cloudkms.googleapis.com", "container.googleapis.com",
 "dns.googleapis.com", "artifactregistry.googleapis.com", "servicenetworking.googleapis.com", "servicemanagement.googleapis.com", "iap.googleapis.com"]
