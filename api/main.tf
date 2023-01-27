@@ -1,4 +1,4 @@
 resource "google_project_service" "project" {
-    count = length(var.sample)
-  service = element(var.sample, count.index)
+    count = length(var.api-names)
+  service = element(var.api-names, count.index)
 }
